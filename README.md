@@ -1,4 +1,4 @@
-SyncedUserDefaults
+![SyncedUserDefaults](https://dl.dropboxusercontent.com/u/7817937/_github/SyncedUserDefaultsLogo__.png)
 ====================
 
 Syncable User Defaults
